@@ -1,0 +1,79 @@
+C:\Users\Hellen Rojas\Desktop\PrograBases\PrograBases\bin\Debug\PrograBases.exe.config
+C:\Users\Hellen Rojas\Desktop\PrograBases\PrograBases\bin\Debug\PrograBases.exe
+C:\Users\Hellen Rojas\Desktop\PrograBases\PrograBases\bin\Debug\PrograBases.pdb
+C:\Users\Hellen Rojas\Desktop\PrograBases\PrograBases\obj\Debug\PrograBases.csprojResolveAssemblyReference.cache
+C:\Users\Hellen Rojas\Desktop\PrograBases\PrograBases\obj\Debug\PrograBases.ventanas.Administrador.resources
+C:\Users\Hellen Rojas\Desktop\PrograBases\PrograBases\obj\Debug\PrograBases.Login.resources
+C:\Users\Hellen Rojas\Desktop\PrograBases\PrograBases\obj\Debug\PrograBases.Properties.Resources.resources
+C:\Users\Hellen Rojas\Desktop\PrograBases\PrograBases\obj\Debug\PrograBases.csproj.GenerateResource.Cache
+C:\Users\Hellen Rojas\Desktop\PrograBases\PrograBases\obj\Debug\PrograBases.exe
+C:\Users\Hellen Rojas\Desktop\PrograBases\PrograBases\obj\Debug\PrograBases.pdb
+C:\Users\Hellen Rojas\Desktop\PrograBases\PrograBases\obj\Debug\PrograBases.ventanas.vendedor.resources
+C:\Users\Hellen Rojas\Dropbox\Progra 2 Bases\PrograBases\PrograBases\bin\Debug\PrograBases.exe.config
+C:\Users\Hellen Rojas\Dropbox\Progra 2 Bases\PrograBases\PrograBases\obj\Debug\PrograBases.exe
+C:\Users\Hellen Rojas\Dropbox\Progra 2 Bases\PrograBases\PrograBases\obj\Debug\PrograBases.pdb
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\PrograBases\PrograBases\bin\Debug\PrograBases.exe.config
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\PrograBases\PrograBases\obj\Debug\PrograBases.exe
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\PrograBases\PrograBases\obj\Debug\PrograBases.pdb
+C:\Users\Kevin\Dropbox\Progra 2 Bases\PrograBases\PrograBases\bin\Debug\PrograBases.exe.config
+C:\Users\Kevin\Dropbox\Progra 2 Bases\PrograBases\PrograBases\obj\Debug\PrograBases.exe
+C:\Users\Kevin\Dropbox\Progra 2 Bases\PrograBases\PrograBases\obj\Debug\PrograBases.pdb
+C:\Users\Kevin\Dropbox\Progra 2 Bases\documentos kevin\PrograBases\PrograBases\bin\Debug\PrograBases.exe.config
+C:\Users\Kevin\Dropbox\Progra 2 Bases\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.exe
+C:\Users\Kevin\Dropbox\Progra 2 Bases\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.pdb
+C:\Users\Kevin\Dropbox\Progra 2 Bases\documentos kevin\PrograBases\PrograBases\bin\Debug\PrograBases.exe
+C:\Users\Kevin\Dropbox\Progra 2 Bases\documentos kevin\PrograBases\PrograBases\bin\Debug\PrograBases.pdb
+C:\Users\Kevin\Dropbox\Progra 2 Bases\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Dropbox\Progra 2 Bases\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.ventanas.Administrador.resources
+C:\Users\Kevin\Dropbox\Progra 2 Bases\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.Login.resources
+C:\Users\Kevin\Dropbox\Progra 2 Bases\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.Properties.Resources.resources
+C:\Users\Kevin\Dropbox\Progra 2 Bases\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.ventanas.vendedor.resources
+C:\Users\Kevin\Dropbox\Progra 2 Bases\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\documentos agro\documentos kevin\PrograBases\PrograBases\bin\Debug\PrograBases.exe.config
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.exe
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.pdb
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\documentos agro\documentos kevin\PrograBases\PrograBases\bin\Debug\PrograBases.exe
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\documentos agro\documentos kevin\PrograBases\PrograBases\bin\Debug\PrograBases.pdb
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.ventanas.Administrador.resources
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.Login.resources
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.Properties.Resources.resources
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.ventanas.vendedor.resources
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\bin\Debug\PrograBases.exe.config
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.exe
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.pdb
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\bin\Debug\PrograBases.exe
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\bin\Debug\PrograBases.pdb
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.ventanas.Administrador.resources
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.Login.resources
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.Properties.Resources.resources
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.ventanas.vendedor.resources
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.csproj.GenerateResource.Cache
+C:\Users\Hellen Rojas\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\bin\Debug\PrograBases.exe.config
+C:\Users\Hellen Rojas\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.exe
+C:\Users\Hellen Rojas\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.pdb
+C:\Users\Hellen Rojas\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\bin\Debug\PrograBases.exe
+C:\Users\Hellen Rojas\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\bin\Debug\PrograBases.pdb
+C:\Users\Hellen Rojas\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.csprojResolveAssemblyReference.cache
+C:\Users\Hellen Rojas\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.ventanas.Administrador.resources
+C:\Users\Hellen Rojas\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.Login.resources
+C:\Users\Hellen Rojas\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.Properties.Resources.resources
+C:\Users\Hellen Rojas\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.ventanas.vendedor.resources
+C:\Users\Hellen Rojas\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.csproj.GenerateResource.Cache
+C:\Users\Kevin\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\bin\Debug\PrograBases.exe.config
+C:\Users\Kevin\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.exe
+C:\Users\Kevin\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.pdb
+C:\Users\Kevin\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\bin\Debug\PrograBases.exe
+C:\Users\Kevin\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\bin\Debug\PrograBases.pdb
+C:\Users\Kevin\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.ventanas.Administrador.resources
+C:\Users\Kevin\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.Login.resources
+C:\Users\Kevin\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.Properties.Resources.resources
+C:\Users\Kevin\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.ventanas.vendedor.resources
+C:\Users\Kevin\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Dropbox\Progra 2 Bases\respaldo\documentos agro\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.ventanas.Stock.resources
+C:\Users\Jonathan\Desktop\documentos kevin\PrograBases\PrograBases\bin\Debug\PrograBases.exe.config
+C:\Users\Jonathan\Desktop\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.exe
+C:\Users\Jonathan\Desktop\documentos kevin\PrograBases\PrograBases\obj\Debug\PrograBases.pdb
